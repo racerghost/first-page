@@ -18,12 +18,13 @@ This is an awesome first page
 - cp file.html directory > to copy in a different folder
 - mv file.html director > to move it somewhere else
 - Git touch > crear doc
-- Code . > abrir amb visual
+- open index.html
+- Code code . > abrir amb visual
 
 # To sync with master on github
 - git status (ver si hay cambios sin añadir)
 - git add . (añade todo lo que no haya)
-- git commit -m "texto" (present tense & english)
+- git commit -m "text" (present tense & english)
 - git push origin master
 
 # Other git commands (not necessary)
